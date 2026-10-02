@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pali912/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pali912/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pali912/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Pali912/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pali912/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pali912/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Pali912/DSA/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Pali912/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pali912/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Pali912/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
