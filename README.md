@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pali912/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pali912/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -136,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
