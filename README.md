@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Pali912/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -112,13 +113,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
