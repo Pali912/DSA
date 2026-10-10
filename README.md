@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pali912/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Pali912/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
+| [1051-height-checker](https://github.com/Pali912/DSA/tree/master/1051-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pali912/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pali912/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/Pali912/DSA/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -162,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Pali912/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Pali912/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Pali912/DSA/tree/master/0134-gas-station) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Pali912/DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Pali912/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
