@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Pali912/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pali912/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pali912/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Pali912/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pali912/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pali912/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pali912/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pali912/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
