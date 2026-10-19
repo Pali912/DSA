@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pali912/DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Pali912/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pali912/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pali912/DSA/tree/master/0189-rotate-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pali912/DSA/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pali912/DSA/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pali912/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
