@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/Pali912/DSA/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/Pali912/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Pali912/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
