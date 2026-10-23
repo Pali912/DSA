@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
+| [0593-valid-square](https://github.com/Pali912/DSA/tree/master/0593-valid-square) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
 ## Binary Search
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/Pali912/DSA/tree/master/0321-create-maximum-number) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Pali912/DSA/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
