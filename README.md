@@ -161,11 +161,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Pali912/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pali912/DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pali912/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Pali912/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Pali912/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/Pali912/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Pali912/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Minimax
@@ -276,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Pali912/DSA/tree/master/1254-number-of-closed-islands) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Pali912/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Pali912/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
