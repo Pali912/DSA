@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Pali912/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Pali912/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Minimax
