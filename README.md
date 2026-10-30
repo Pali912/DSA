@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pali912/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pali912/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Pali912/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/Pali912/DSA/tree/master/1051-height-checker) |
 | [1254-number-of-closed-islands](https://github.com/Pali912/DSA/tree/master/1254-number-of-closed-islands) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pali912/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pali912/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Pali912/DSA/tree/master/0567-permutation-in-string) |
+| [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
 | [1189-maximum-number-of-balloons](https://github.com/Pali912/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Pali912/DSA/tree/master/0593-valid-square) |
+| [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/Pali912/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Pali912/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Pali912/DSA/tree/master/0134-gas-station) |
 | [0321-create-maximum-number](https://github.com/Pali912/DSA/tree/master/0321-create-maximum-number) |
+| [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
 ## Counting Sort
 |  |
 | ------- |
