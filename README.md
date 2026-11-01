@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Pali912/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pali912/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pali912/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pali912/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pali912/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Pali912/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/Pali912/DSA/tree/master/0567-permutation-in-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pali912/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pali912/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Pali912/DSA/tree/master/0593-valid-square) |
 | [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Pali912/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Pali912/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pali912/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Pali912/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Minimax
 |  |
