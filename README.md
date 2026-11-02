@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Pali912/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Pali912/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [2409-count-days-spent-together](https://github.com/Pali912/DSA/tree/master/2409-count-days-spent-together) |
 ## Binary Search
 |  |
@@ -297,10 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pali912/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Pali912/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pali912/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Pali912/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 ## String Matching
 |  |
 | ------- |
