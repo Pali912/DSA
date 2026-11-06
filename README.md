@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pali912/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Pali912/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0567-permutation-in-string](https://github.com/Pali912/DSA/tree/master/0567-permutation-in-string) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0709-to-lower-case](https://github.com/Pali912/DSA/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/Pali912/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2409-count-days-spent-together](https://github.com/Pali912/DSA/tree/master/2409-count-days-spent-together) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pali912/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/Pali912/DSA/tree/master/0593-valid-square) |
 | [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/Pali912/DSA/tree/master/0788-rotated-digits) |
@@ -343,4 +345,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Pali912/DSA/tree/master/0802-find-eventual-safe-states) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
