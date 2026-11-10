@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Pali912/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
+| [0963-minimum-area-rectangle-ii](https://github.com/Pali912/DSA/tree/master/0963-minimum-area-rectangle-ii) |
 | [1051-height-checker](https://github.com/Pali912/DSA/tree/master/1051-height-checker) |
 | [1254-number-of-closed-islands](https://github.com/Pali912/DSA/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/Pali912/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Pali912/DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Pali912/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
+| [0963-minimum-area-rectangle-ii](https://github.com/Pali912/DSA/tree/master/0963-minimum-area-rectangle-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Pali912/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/Pali912/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
+| [0963-minimum-area-rectangle-ii](https://github.com/Pali912/DSA/tree/master/0963-minimum-area-rectangle-ii) |
 | [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Pali912/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [2409-count-days-spent-together](https://github.com/Pali912/DSA/tree/master/2409-count-days-spent-together) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Pali912/DSA/tree/master/0593-valid-square) |
+| [0963-minimum-area-rectangle-ii](https://github.com/Pali912/DSA/tree/master/0963-minimum-area-rectangle-ii) |
 ## Depth-First Search
 |  |
 | ------- |
