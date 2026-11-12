@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Pali912/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Pali912/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pali912/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Pali912/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Pali912/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
 | [0639-decode-ways-ii](https://github.com/Pali912/DSA/tree/master/0639-decode-ways-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pali912/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0065-valid-number](https://github.com/Pali912/DSA/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Pali912/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Pali912/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Pali912/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Pali912/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pali912/DSA/tree/master/0344-reverse-string) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pali912/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pali912/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Pali912/DSA/tree/master/0039-combination-sum) |
+| [0131-palindrome-partitioning](https://github.com/Pali912/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
