@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Pali912/DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pali912/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Pali912/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0537-complex-number-multiplication](https://github.com/Pali912/DSA/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/Pali912/DSA/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0639-decode-ways-ii](https://github.com/Pali912/DSA/tree/master/0639-decode-ways-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pali912/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Pali912/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/Pali912/DSA/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/Pali912/DSA/tree/master/0593-valid-square) |
 | [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Pali912/DSA/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/Pali912/DSA/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 ## Euclidean Algorithm
 |  |
