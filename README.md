@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Pali912/DSA/tree/master/0321-create-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pali912/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Pali912/DSA/tree/master/0525-contiguous-array) |
+| [0529-minesweeper](https://github.com/Pali912/DSA/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pali912/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pali912/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Pali912/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -312,11 +313,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0529-minesweeper](https://github.com/Pali912/DSA/tree/master/0529-minesweeper) |
 | [0802-find-eventual-safe-states](https://github.com/Pali912/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/Pali912/DSA/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0529-minesweeper](https://github.com/Pali912/DSA/tree/master/0529-minesweeper) |
 | [0802-find-eventual-safe-states](https://github.com/Pali912/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/Pali912/DSA/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0529-minesweeper](https://github.com/Pali912/DSA/tree/master/0529-minesweeper) |
 | [1254-number-of-closed-islands](https://github.com/Pali912/DSA/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
