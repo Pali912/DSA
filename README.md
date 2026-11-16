@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/Pali912/DSA/tree/master/0639-decode-ways-ii) |
 | [0709-to-lower-case](https://github.com/Pali912/DSA/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/Pali912/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pali912/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Pali912/DSA/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Pali912/DSA/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/Pali912/DSA/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Pali912/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Euclidean Algorithm
 |  |
 | ------- |
