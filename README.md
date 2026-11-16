@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/Pali912/DSA/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/Pali912/DSA/tree/master/0593-valid-square) |
+| [0754-reach-a-number](https://github.com/Pali912/DSA/tree/master/0754-reach-a-number) |
 | [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
 | [0788-rotated-digits](https://github.com/Pali912/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Pali912/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pali912/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0754-reach-a-number](https://github.com/Pali912/DSA/tree/master/0754-reach-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
