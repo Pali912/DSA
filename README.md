@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/Pali912/DSA/tree/master/0639-decode-ways-ii) |
 | [0788-rotated-digits](https://github.com/Pali912/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
+| [0964-least-operators-to-express-number](https://github.com/Pali912/DSA/tree/master/0964-least-operators-to-express-number) |
 | [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Pali912/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Pali912/DSA/tree/master/0963-minimum-area-rectangle-ii) |
+| [0964-least-operators-to-express-number](https://github.com/Pali912/DSA/tree/master/0964-least-operators-to-express-number) |
 | [1025-divisor-game](https://github.com/Pali912/DSA/tree/master/1025-divisor-game) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Pali912/DSA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [2409-count-days-spent-together](https://github.com/Pali912/DSA/tree/master/2409-count-days-spent-together) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pali912/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
+| [0964-least-operators-to-express-number](https://github.com/Pali912/DSA/tree/master/0964-least-operators-to-express-number) |
 ## Backtracking
 |  |
 | ------- |
