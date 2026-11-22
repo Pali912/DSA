@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Pali912/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Pali912/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Pali912/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0721-accounts-merge](https://github.com/Pali912/DSA/tree/master/0721-accounts-merge) |
 | [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/Pali912/DSA/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0877-stone-game](https://github.com/Pali912/DSA/tree/master/0877-stone-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pali912/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Pali912/DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Pali912/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/Pali912/DSA/tree/master/0721-accounts-merge) |
 | [0781-rabbits-in-forest](https://github.com/Pali912/DSA/tree/master/0781-rabbits-in-forest) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Pali912/DSA/tree/master/0963-minimum-area-rectangle-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Pali912/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pali912/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Pali912/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/Pali912/DSA/tree/master/0721-accounts-merge) |
 | [1051-height-checker](https://github.com/Pali912/DSA/tree/master/1051-height-checker) |
 ## String
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Pali912/DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0639-decode-ways-ii](https://github.com/Pali912/DSA/tree/master/0639-decode-ways-ii) |
 | [0709-to-lower-case](https://github.com/Pali912/DSA/tree/master/0709-to-lower-case) |
+| [0721-accounts-merge](https://github.com/Pali912/DSA/tree/master/0721-accounts-merge) |
 | [1189-maximum-number-of-balloons](https://github.com/Pali912/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Pali912/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Pali912/DSA/tree/master/2409-count-days-spent-together) |
@@ -327,17 +331,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0529-minesweeper](https://github.com/Pali912/DSA/tree/master/0529-minesweeper) |
 | [0563-binary-tree-tilt](https://github.com/Pali912/DSA/tree/master/0563-binary-tree-tilt) |
+| [0721-accounts-merge](https://github.com/Pali912/DSA/tree/master/0721-accounts-merge) |
 | [0802-find-eventual-safe-states](https://github.com/Pali912/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/Pali912/DSA/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0529-minesweeper](https://github.com/Pali912/DSA/tree/master/0529-minesweeper) |
+| [0721-accounts-merge](https://github.com/Pali912/DSA/tree/master/0721-accounts-merge) |
 | [0802-find-eventual-safe-states](https://github.com/Pali912/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/Pali912/DSA/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Pali912/DSA/tree/master/0721-accounts-merge) |
 | [1254-number-of-closed-islands](https://github.com/Pali912/DSA/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
