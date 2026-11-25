@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Pali912/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Pali912/DSA/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pali912/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/Pali912/DSA/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/Pali912/DSA/tree/master/0509-fibonacci-number) |
 | [0639-decode-ways-ii](https://github.com/Pali912/DSA/tree/master/0639-decode-ways-ii) |
 | [0788-rotated-digits](https://github.com/Pali912/DSA/tree/master/0788-rotated-digits) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pali912/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Pali912/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Pali912/DSA/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Pali912/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Pali912/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pali912/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pali912/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pali912/DSA/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pali912/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/Pali912/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Pali912/DSA/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pali912/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Pali912/DSA/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Pali912/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
