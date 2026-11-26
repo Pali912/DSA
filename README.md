@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pali912/DSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Pali912/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Pali912/DSA/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Pali912/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pali912/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pali912/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Pali912/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Pali912/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Pali912/DSA/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Pali912/DSA/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Pali912/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pali912/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pali912/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pali912/DSA/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Pali912/DSA/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Pali912/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pali912/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Pali912/DSA/tree/master/1189-maximum-number-of-balloons) |
