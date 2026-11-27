@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pali912/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pali912/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pali912/DSA/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Pali912/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0321-create-maximum-number](https://github.com/Pali912/DSA/tree/master/0321-create-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pali912/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Pali912/DSA/tree/master/0525-contiguous-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pali912/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pali912/DSA/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Pali912/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/Pali912/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pali912/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Pali912/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Pali912/DSA/tree/master/0063-unique-paths-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Pali912/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0529-minesweeper](https://github.com/Pali912/DSA/tree/master/0529-minesweeper) |
 | [1254-number-of-closed-islands](https://github.com/Pali912/DSA/tree/master/1254-number-of-closed-islands) |
 ## Tree
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Pali912/DSA/tree/master/0563-binary-tree-tilt) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Pali912/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
